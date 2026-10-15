@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-runner",
+  "versions": [
+    {
+      "commit": "9d13da8bd36ecd9634629b492315cb28eff44183",
+      "parsed_at": "2026-10-15T15:07:30.138430+00:00",
+      "tag": "v6.0.1",
+      "filetree": "filetree/9d13da8bd36ecd9634629b492315cb28eff44183.nq.gz",
+      "blobs": [
+        "blob/976ba0294638950e865be3934cbeee3b6305ffd6.nq.gz",
+        "blob/d2e3fddd2eb2ed850624d32f47b346c8e7cf3b72.nq.gz",
+        "blob/21142b52a3cc515ef0a6b7bb6429d660a9a6febc.nq.gz",
+        "blob/89ff33961ba3d6f9cda89322a1fdbf1ac2e35513.nq.gz",
+        "blob/3ca2af38b1c016e5454e4be9751e8f829c7629e8.nq.gz",
+        "blob/b8aeea177b3869aaf7cfcdc1b8b272fee9c202e6.nq.gz",
+        "blob/cc698548db4fa194439c2da704e1d4c342ef4200.nq.gz",
+        "blob/3944ba91f2bdc6d32421b214b25b75a006d9b9d9.nq.gz",
+        "blob/3b4273aa46d3966b4404ee19c68a7944356a9c66.nq.gz",
+        "blob/41192fa83ea9f3194d5a31f429e7fd5515c7529d.nq.gz",
+        "blob/fc2eb829219848bcb4c5e9cc64f3816e694826d5.nq.gz",
+        "blob/8e217503ba1a68826af8e1e9db4bd16ce7a21857.nq.gz",
+        "blob/6a34e662d391e5d273f91eac3c0a6983ed7d718f.nq.gz",
+        "blob/353924be0e59b9ad7e6c22848c2189398481821d.nq.gz",
+        "blob/5424298dd3133c7cddd74ad9f2a11cb4f60b4048.nq.gz",
+        "blob/48b2e246f1b40ddbe34618a616a51554d109c0e3.nq.gz",
+        "blob/a9aff9d1ca9a9215750ecdc40803b2ebf68e6a97.nq.gz",
+        "blob/190b3551e5648512409f243755bbad97920c2b64.nq.gz",
+        "blob/d5eab1be5c2415b0e9bb1542938bdd892d975c19.nq.gz",
+        "blob/80e98cc96c6a403cd211538e494e9765722b3f17.nq.gz",
+        "blob/edf6f55f9b23a87abfcfab2a4b9d2f96b15e526e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
