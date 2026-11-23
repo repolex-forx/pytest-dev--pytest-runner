@@ -147,7 +147,8 @@
           "githubRepo": "cpython",
           "source": "stdlib:python"
         }
-      ]
+      ],
+      "dep": "dep/9d13da8bd36ecd9634629b492315cb28eff44183.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
