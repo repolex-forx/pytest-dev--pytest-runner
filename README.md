@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 9d13da8bd36ecd9634629b492315cb28eff44183
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 9d13da8bd36ecd9634629b492315cb28eff44183.nq.gz
 │   └── repolex
 │       └── 9d13da8bd36ecd9634629b492315cb28eff44183
 │           └── chunk-001.nq.gz
@@ -67,6 +69,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 9d13da8bd36ecd9634629b492315cb28eff44183.nq.gz
 ├── filetree
 │   └── 9d13da8bd36ecd9634629b492315cb28eff44183.nq.gz
 ├── issue
@@ -76,7 +80,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 29 files
+15 directories, 31 files
 ```
 
 | Directory | What it contains |
@@ -97,4 +101,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [pytest-dev/pytest-runner](https://github.com/pytest-dev/pytest-runner)
 
 ---
-*Parsed on 2026-10-15 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-23 by [repolex](https://repolex.ai)*
